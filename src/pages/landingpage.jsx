@@ -4,7 +4,7 @@ import "./Landingpage.css";
 function LandingPage() {
   return (
     <>
-      <div className="landingpage-container">
+      <div className="landingpage-container" id="lp">
         <div className="landingpage-content">
           <h1>The Surf</h1>
           <h3>Good Times & Amazing Experiences</h3>

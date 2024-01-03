@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <>
       <div className="navigation">
-        <a href="/" className="logo">
+        <a href="#lp" className="logo">
           <img src="images/SP.png" alt="logo" />
         </a>
         <div className="hamburger" onClick={handleClick}>
