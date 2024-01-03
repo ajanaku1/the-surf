@@ -34,7 +34,7 @@ function Footer() {
           <div className="footer-content-container">
             <div className="footer-content-boxes">
               <div className="footer-logo">
-                <h2>The-Surf</h2>
+                <h2>The Surf</h2>
               </div>
               <div className="footer-text">
                 <p>
