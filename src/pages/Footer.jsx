@@ -58,24 +58,24 @@ function Footer() {
               <div className="useful-links-container">
                 <ul>
                   <li>
-                    <a href="#">Services</a>
+                    <a href="#/">Services</a>
                   </li>
                   <li>
-                    <a href="#">Portfolio</a>
+                    <a href="#/">Portfolio</a>
                   </li>
                   <li>
-                    <a href="#">Contact</a>
+                    <a href="#/">Contact</a>
                   </li>
                 </ul>
                 <ul>
                   <li>
-                    <a href="#">Expert Team</a>
+                    <a href="#/">Expert Team</a>
                   </li>
                   <li>
-                    <a href="#">Contact Us</a>
+                    <a href="#/">Contact Us</a>
                   </li>
                   <li>
-                    <a href="#">Latest News</a>
+                    <a href="#/">Latest News</a>
                   </li>
                 </ul>
               </div>
@@ -89,25 +89,25 @@ function Footer() {
               <div className="copyright-text">
                 <p>
                   Copyright &copy; 2023, All Rights Reserved{" "}
-                  <a href="">The Surf</a>
+                  <a href="/">The Surf</a>
                 </p>
               </div>
               <div className="footer-menu">
                 <ul>
                   <li>
-                    <a href="">Home</a>
+                    <a href="/">Home</a>
                   </li>
                   <li>
-                    <a href="">Terms</a>
+                    <a href="/">Terms</a>
                   </li>
                   <li>
-                    <a href="">Privacy</a>
+                    <a href="/">Privacy</a>
                   </li>
                   <li>
-                    <a href="">Policy</a>
+                    <a href="/">Policy</a>
                   </li>
                   <li>
-                    <a href="">Contact</a>
+                    <a href="/">Contact</a>
                   </li>
                 </ul>
               </div>

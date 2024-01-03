@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/the-surf/static/css/main.a4593c51.css",
+    "main.js": "/the-surf/static/js/main.88521283.js",
+    "index.html": "/the-surf/index.html",
+    "main.a4593c51.css.map": "/the-surf/static/css/main.a4593c51.css.map",
+    "main.88521283.js.map": "/the-surf/static/js/main.88521283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4593c51.css",
+    "static/js/main.88521283.js"
+  ]
+}
