@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/the-surf/static/css/main.a4593c51.css",
-    "main.js": "/the-surf/static/js/main.9b46d40a.js",
+    "main.js": "/the-surf/static/js/main.c3ca6a38.js",
     "index.html": "/the-surf/index.html",
     "main.a4593c51.css.map": "/the-surf/static/css/main.a4593c51.css.map",
-    "main.9b46d40a.js.map": "/the-surf/static/js/main.9b46d40a.js.map"
+    "main.c3ca6a38.js.map": "/the-surf/static/js/main.c3ca6a38.js.map"
   },
   "entrypoints": [
     "static/css/main.a4593c51.css",
-    "static/js/main.9b46d40a.js"
+    "static/js/main.c3ca6a38.js"
   ]
 }
