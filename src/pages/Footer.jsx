@@ -89,7 +89,7 @@ function Footer() {
               <div className="copyright-text">
                 <p>
                   Copyright &copy; 2023, All Rights Reserved{" "}
-                  <a href="/">The Surf</a>
+                  <a href="#about">The Surf</a>
                 </p>
               </div>
               <div className="footer-menu">
@@ -98,13 +98,13 @@ function Footer() {
                     <a href="/">Home</a>
                   </li>
                   <li>
-                    <a href="/">Terms</a>
+                    <a href="#/">Terms</a>
                   </li>
                   <li>
-                    <a href="/">Privacy</a>
+                    <a href="#/">Privacy</a>
                   </li>
                   <li>
-                    <a href="/">Policy</a>
+                    <a href="#/">Policy</a>
                   </li>
                   <li>
                     <a href="/">Contact</a>
