@@ -30,7 +30,7 @@ function Navbar() {
               </a>
             </li>
             <li>
-              <a className="nav-link nav-link-line" href="#destination">
+              <a className="nav-link nav-link-line" href="#destinations">
                 Destinations
               </a>
             </li>
